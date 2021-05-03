@@ -29,7 +29,7 @@
   <h3 align="center">Data Science Projects</h3>
 
   <p align="center">
-    Data science combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights <br> from data. In turn, these systems generate insights which analysts and business users can translate into tangible business values.
+    Data science combines domain expertise, programming skills, and knowledge of mathematics and statistics<br> to extract meaningful insights from data. In turn, these systems generate insights which analysts and business users can translate into tangible business values.
     <br />
     <a href="https://github.com/waleed-javed/DataScience"><strong>Explore the docs »</strong></a>
     <br />
