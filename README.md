@@ -59,6 +59,13 @@ This Repo Contains Jupyter notebooks for DataScience Projects.
 * [Sk.Learn / Keras]()
 
 
+# Objectives
+
+1. Explain how neural networks (deep and otherwise) compare to other machine learning models.
+2. Determine when a deep neural network would be a good choice for a particular problem.
+3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
